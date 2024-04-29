@@ -8,5 +8,5 @@
 				
 				
 	"fecha_nac":"06/08/1999",
-	
+	/* "" no es lo mismo que null*/
 }
