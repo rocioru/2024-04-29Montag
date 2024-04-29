@@ -1,0 +1,12 @@
+{
+	"id":13,
+	"nombre":"Rocio",
+	"apellido":"Rodriguez",
+	"alergias": [{"id_a":1,"desc":"al pasto"}, 
+				{"id_a":2,"desc":"a los gatos"}
+				],
+				
+				
+	"fecha_nac":"06/08/1999",
+	
+}
